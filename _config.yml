@@ -12,10 +12,10 @@ title: Aaron Lowrey's Portfolio # This is what shows up in the tab of the browse
 
 
 # Hero Section
-name: Hi, I'm Aaron
+name: "Hi, I'm Aaron"
 headline: AV Engineer / CTS
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I've spent 3+ years designing and deploying corporate audiovisual technology, specializing in Microsoft Teams Rooms ecosystems. Specialized in combining systems thinking with user-centered design to build intelligent, ergonomic workplace environments from event spaces to conference rooms. Skilled at bridging IT, facilities, and business stakeholders to deliver scalable, remotely monitored, automated infrastructure.
+  "I've spent 3+ years designing and deploying corporate audiovisual technology, specializing in Microsoft Teams Rooms ecosystems. Specialized in combining systems thinking with user-centered design to build intelligent, ergonomic workplace environments from event spaces to conference rooms. Skilled at bridging IT, facilities, and business stakeholders to deliver scalable, remotely monitored, automated infrastructure."
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
