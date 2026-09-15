@@ -12,10 +12,10 @@ title: Aaron Lowrey's Portfolio # This is what shows up in the tab of the browse
 
 
 # Hero Section
-name: "Hi, I'm Aaron"
+name: Aaron Lowrey
 headline: AV Engineer / CTS
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  "I've spent 3+ years designing and deploying corporate audiovisual technology, specializing in Microsoft Teams Rooms ecosystems. Specialized in combining systems thinking with user-centered design to build intelligent, ergonomic workplace environments from event spaces to conference rooms. Skilled at bridging IT, facilities, and business stakeholders to deliver scalable, remotely monitored, automated infrastructure."
+  I've spent 3+ years designing and deploying corporate audiovisual technology, emphasis on Microsoft Teams Room ecosystems. Specialized in combining systems thinking with user-centered design to build intelligent, ergonomic workplace environments from event spaces to conference rooms. Skilled at bridging IT, facilities, and business stakeholders to deliver scalable, remotely monitored, automated infrastructure."
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -29,8 +29,8 @@ resume-url: /assets/resume/resume.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/aaronqlowrey/ # https://www.linkedin.com/in/{your url slug} 
-  github: https://github.com/ElionEvolved 
+  linkedin: aaronqlowrey # https://www.linkedin.com/in/{your url slug} 
+  github: ElionEvolved 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
@@ -45,29 +45,34 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: AV Systems and Design
     tools:
-    - AVOIP; Crestron, Extron, and custom AV Access Encoder/Decoders
-    - Audio Mixing and Design; DM7 and Midas Configuration
-    - DMX Addressing; ETC Boards
-    - Display Systems; SAAS and Custom Content
+    - AVOIP - Crestron, Extron, and custom AV Access Encoder/Decoders
+    - Live Audio Mixing and Rack Design
+    - Yamaha DM7 and Midas Configuration
+    - DMX Addressing - ETC Element and ColorSource
+    - Display Systems - SAAS and Desktop
   - category: Infrastructure and Cloud
     tools:
+    - Network Switch Installation and Rack Design
     - UPS Systems
     - Remote Montioring and Automation
     - HTTP and SNMP Scripting
     - Arduino / Raspberry Pi Custom Setups
-    - Breadboarding for circuit testing
-    - Low voltage cable installations
+    - Breadboarding for Circuit Testing
+    - Low-Voltage Cable Installations
+    - GCP and Azure Hosting
   - category: Project Management
     tools:
     - Needs Analysis and Assessment
     - Project Life-Cycle Planning
-    - Agile and Sprint Methodology; Jira, Youtrack, Azure
+    - Agile and Sprint Methodology
+    - Jira, Youtrack, Azure
     - CAPM Candidate - Studying for exam
   - category: Personal Projects
     tools:
     - FL Studio and Abelton Audio Production
-    - Adobe Suite Premier and Photoshop, Davinci editing
-    - Blender and other 3D Modelling
+    - Adobe Suite - Premier and Photoshop
+    - Davinci Editing
+    - Blender Modelling
       
 
 
