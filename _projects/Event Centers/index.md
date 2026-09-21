@@ -12,4 +12,4 @@ skills:
 main-image: /IMG_5110.jpeg
 ---
 ## WJ Ranch and Crashed Toys
-{% include image-gallery.html images="IMG_8991.jpeg, IMG_1813.jpeg" height="400" %}
+{% include image-gallery.html images="[IMG_8991.jpeg](https://raw.githubusercontent.com/ElionEvolved/ElionEvolved.github.io/refs/heads/main/_projects/Event%20Centers/IMG_8991.jpeg), IMG_1813.jpeg" height="400" %}
