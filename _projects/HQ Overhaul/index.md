@@ -10,5 +10,5 @@ skills:
   - PTZ Optics
   - Microsoft Teams Broadcasting
 
-main-image: /sonos.png
+main-image: /IMG_0904.jpeg
 ---
