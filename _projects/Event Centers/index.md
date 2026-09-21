@@ -10,6 +10,4 @@ skills:
 - Custom AVoIP
 - PTZ Optics
 main-image: /IMG_5110.jpeg
-
-images="IMG_9860.jpeg" height="100" %
 ---
