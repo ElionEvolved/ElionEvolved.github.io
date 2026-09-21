@@ -10,5 +10,5 @@ skills:
   - PTZ Optics
   - Microsoft Teams Broadcasting
 
-main-image: /_projects/HQ Overhaul/IMG_0904.jpeg
+main-image: /IMG_0904.jpeg
 ---
