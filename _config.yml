@@ -23,7 +23,7 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: /assets/resume/resumeAL.pdf
+resume-url: /assets/resume/resumeALPort.docx
 
 
 # Set up external links - this will show up as small icons next to your name.
@@ -46,6 +46,7 @@ skills:
   - category: AV Systems and Design
     tools:
     - AVOIP - Crestron, Extron, and custom AV Access Encoder/Decoders
+    - AutoCAD and MS Visio Design
     - Live Audio Mixing and Rack Design
     - Yamaha DM7 and Midas Configuration
     - DMX Addressing - ETC Element and ColorSource
