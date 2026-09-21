@@ -9,5 +9,5 @@ skills:
 - Crestron NVX
 - Custom AVoIP
 - PTZ Optics
-main-image: /project.webp 
+main-image: /IMG_5110.jpeg
 ---
