@@ -12,4 +12,4 @@ skills:
 main-image: /IMG_5110.jpeg
 ---
 ## WJ Ranch and Crashed Toys
-{% include image-gallery.html images="/IMG_0072.jpeg","IMG_0385.jpeg","/IMG_0424.jpeg" height="400" %}
+{% include image-gallery.html images="/IMG_0072.jpeg, IMG_0385.jpeg, /IMG_0424.jpeg:" height="400" %}
