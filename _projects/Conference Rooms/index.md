@@ -7,5 +7,5 @@ skills:
 - Unified Communication
 - Collaboration Platforms
 - Hybrid Room Design
-main-image: /project.webp 
+main-image: /IMG_2769.jpeg
 ---
